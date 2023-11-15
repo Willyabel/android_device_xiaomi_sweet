@@ -12,6 +12,8 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="maintainer_name">𝙱𝚑𝚊𝚜𝚔𝚊𝚛 𝚊𝚗𝚍 𝚄𝚗𝚖𝚘𝚟𝚎𝙳</string>
-
+      <string name="build_maintainer_summary">ᴡɪʟʟʏ ᴀʙᴇʟ</string>
+    <string name="build_maintainer_donate_url">https://t.me/updatewillyAbel</string>
+      <string name="build_status_summary">UNOFFICIAL</string>
+      
 </resources>
